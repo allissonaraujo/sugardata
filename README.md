@@ -12,8 +12,9 @@ composer require allissonaraujo/sugardata
 ```
 
 ## Usage
-### Basic Example
-Here's a basic example of how to use the SugarData class to send a POST ⬆️ request:
+
+## Sending a POST request ⬆️
+Here's a basic example of how to use the SugarData class to send a POST request:
 ```php
 require 'vendor/autoload.php';
 
