@@ -13,9 +13,9 @@
             "email": "inboxsolucoesweb@gmail.com"
         }
     ],
-    "minimum-stability": "beta",
+    "minimum-stability": "stable",
     "require": {
-          "allissonaraujo/sugardata": "dev-master"
+         
     },
     "require-dev": {
         "phpunit/phpunit": "^9.0"
