@@ -8,7 +8,7 @@ A simple PHP package to send and receive HTTP requests using the cURL library.
 To install this package, use Composer:
 
 ```sh
-composer require allissonaraujo/sugardata
+composer require allissonaraujo/sugardata:dev-main
 ```
 
 ## Usage
