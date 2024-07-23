@@ -5,7 +5,7 @@ require_once('vendor/autoload.php');
 use Allissonaraujo\SugarData\SugarData;
 
 $SugarData = new SugarData('https://jsonplaceholder.typicode.com/posts', [
-    'title' => 'Title foo',
+    'title' => 'Title foo bar',
     'body' => 'bar',
     'userId' => 2
 ]);

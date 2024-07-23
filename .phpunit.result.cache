@@ -1,1 +1,1 @@
-{"version":1,"defects":{"AjaquicksTest::testSendPostRequest":4},"times":{"AjaquicksTest::testSendPostRequest":1.179,"AjaquicksTest::testGetResponse":0.282}}
+{"version":1,"defects":{"AjaquicksTest::testSendPostRequest":4},"times":{"AjaquicksTest::testSendPostRequest":1.179,"AjaquicksTest::testGetResponse":0.282,"SugarDataTest::testSendPostRequest":0.828,"SugarDataTest::testGetResponse":0.424}}
