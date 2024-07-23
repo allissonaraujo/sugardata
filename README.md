@@ -13,7 +13,7 @@ composer require allissonaraujo/sugardata
 
 ## Usage
 ### Basic Example
-Here's a basic example of how to use the SugarData class to send a POST request:
+Here's a basic example of how to use the SugarData class to send a POST ⬆️ request:
 ```php
 require 'vendor/autoload.php';
 
@@ -32,7 +32,7 @@ $response = $request->send();
 print_r($response);
 ```
 
-## Sending a GET Request
+## Sending a GET Request ⬇️
 ### To send a GET request, you can specify the method as 'GET':
 
 ```php
@@ -51,7 +51,7 @@ $response = $request->send();
 print_r($response);
 ```
 
-## Sending a PUT Request
+## Sending a PUT Request 🔄
 ### Here's an example of how to send a PUT request:
 
 ```php
@@ -74,7 +74,7 @@ print_r($response);
 
 ```
 
-## Sending a DELETE Request
+## Sending a DELETE Request ⛔
 ### And here's how to send a DELETE request:
 
 ```php
