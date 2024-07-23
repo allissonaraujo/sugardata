@@ -23,7 +23,7 @@ class ComposerStaticInitaa4163a589ddf3d0698013e3e28fa3f2
         ),
         'A' => 
         array (
-            'Allissonaraujo\\Ajaquicks\\' => 25,
+            'Allissonaraujo\\SugarData\\' => 25,
         ),
     );
 
@@ -40,7 +40,7 @@ class ComposerStaticInitaa4163a589ddf3d0698013e3e28fa3f2
         array (
             0 => __DIR__ . '/..' . '/myclabs/deep-copy/src/DeepCopy',
         ),
-        'Allissonaraujo\\Ajaquicks\\' => 
+        'Allissonaraujo\\SugarData\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
