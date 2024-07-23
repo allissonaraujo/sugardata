@@ -1,0 +1,21 @@
+{
+    "name": "allissonaraujo/sugardata",
+    "description": "A simple Package to facilitate the use of requests with PHP",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Allissonaraujo\\SugarData\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Allisson Araujo",
+            "email": "inboxsolucoesweb@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    }
+}
